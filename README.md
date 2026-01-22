@@ -79,18 +79,6 @@ This project automates the classification process using a CNN model trained on l
 - Deploy the model as a web application for real-time predictions
 - Integrate explainability techniques (Grad-CAM)
 
----
-
-## 📂 Project Structure
-
-├── dataset/
-│ ├── train/
-│ ├── test/
-├── notebooks/
-│ └── retina_classification.ipynb
-├── models/
-│ └── cnn_model.h5
-├── README.md
 
 ---
 
